@@ -1,8 +1,7 @@
 #####################################################################
 #
-# CSC258H5S Winter 2021 Assembly Programming Project
-# University of Toronto Mississauga
-#
+# Winter 2021 Assembly Programming Project
+# University of Toronto
 #
 #
 # Bitmap Display Configuration:
@@ -12,17 +11,8 @@
 # - Display height in pixels: 256
 # - Base Address for Display: 0x10008000 ($gp)
 #
-# Which milestone is reached in this submission?
-# - Milestone 1-4
-#
-# Which approved additional features have been implemented?
-# (See the assignment handout for the list of additional features)
-# 1. Gradual increase in difficulty. Platforms shrink and change colour as you progress. 
+# - Gradual increase in difficulty. Platforms shrink and change colour as you progress. 
 # 
-#
-# Any additional information that the TA needs to know:
-# - Frame rate is set at 25 fps. Sometimes when I was coding for a long time the game 
-#   would slow down. If the game feels sluggish try restarting assembly. Thanks!
 #
 #####################################################################
 .data
